@@ -6,7 +6,7 @@ A single Streamlit UI that provides:
 - Sidebar for DB & OAuth config, retrieval method, 'Save Configuration'.
 - Main page for:
   - "Fetch Emails" button (retrieves & stores emails).
-  - A dynamic "Rule Editor" replicating the PyQt approach:
+  - A dynamic "Rule Editor" 
     * Add/Remove conditions
     * Add/Remove actions (including new actions: Star, Unstar, Archive, Trash)
     * Match policy (All/Any)
@@ -197,7 +197,7 @@ if st.button("Fetch Emails"):
 # -------------------
 # Rule Editor Section
 # -------------------
-st.header("Rule Editor (Similar to PyQt Dialog)")
+st.header("Rule Editor")
 
 # Load existing rules button
 if st.button("Load Existing Rules"):
