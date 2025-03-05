@@ -1,0 +1,15 @@
+{
+    "match_policy": "All",
+    "rules": [
+        {
+            "field": "From",
+            "predicate": "contains",
+            "value": "\"Malathy EM (Classroom)\" <no-reply@classroom.google.com>"
+        }
+    ],
+    "actions": [
+        {
+            "action": "star"
+        }
+    ]
+}
