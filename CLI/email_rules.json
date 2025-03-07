@@ -1,0 +1,22 @@
+{
+    "match_policy": "All",
+    "rules": [
+        {
+            "field": "From",
+            "predicate": "contains",
+            "value": "Bhuvaneswaran B <bhuvaneswaran@rajalakshmi.edu.in>"
+        }
+    ],
+    "actions": [
+        {
+            "action": "mark as read"
+        },
+        {
+            "action": "star"
+        },
+        {
+            "action": "move message",
+            "destination": "promotions"
+        }
+    ]
+}
