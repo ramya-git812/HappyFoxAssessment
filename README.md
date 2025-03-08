@@ -161,7 +161,12 @@ The project follows modular code and OAuth 2.0 security best practices.
 
 
 Screenshots 
------------------------
+----------------------
+
+![Screenshot 2025-03-08 074129](https://github.com/user-attachments/assets/20d65b8a-56e4-48a0-b7f9-83d3f9616180)
 
 
+![Screenshot 2025-03-08 074152](https://github.com/user-attachments/assets/8b79b500-f0e4-4d1b-ba8d-ac99a94ed196)
 
+
+![Screenshot 2025-03-08 074508](https://github.com/user-attachments/assets/98e14267-a3e8-40e5-997b-cb9ec8978493)
